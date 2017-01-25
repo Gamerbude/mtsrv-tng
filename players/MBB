@@ -1,0 +1,84 @@
+breath = 11
+hp = 12
+name = MBB
+pitch = 74.1
+position = (16475,1115,527.67)
+version = 1
+yaw = 148.59
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:stair_cobble 29
+Item flowers:viola
+Item bones:bones 2
+Empty
+Item default:pick_stone 1 49238
+Item default:cobble 92
+Empty
+Item boats:boat
+Empty
+Item default:birch_leaves
+Item default:dirt 50
+Empty
+Item default:snowblock 12
+Item default:pine_sapling 3
+Item default:sand
+Item default:snow 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 5
+EndInventoryList
+List armor_head 1
+Width 0
+Empty
+EndInventoryList
+List armor_chest 1
+Width 0
+Empty
+EndInventoryList
+List armor_legs 1
+Width 0
+Empty
+EndInventoryList
+List armor_feet 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

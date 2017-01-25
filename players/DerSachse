@@ -1,0 +1,84 @@
+breath = 11
+hp = 4
+name = DerSachse
+pitch = 8.4
+position = (3818.82,255,-1016.76)
+version = 1
+yaw = 67.8
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:sword_stone 1 13964
+Empty
+Item default:axe_wood 1 8736
+Item default:coal_lump 19
+Item default:pine_wood 12
+Item default:torch 15
+Item default:cobble 37
+Item default:dirt 12
+Item flowers:mushroom_brown
+Item default:mese_crystal_fragment
+Item default:coal_lump 13
+Item default:bone 3
+Item default:cobble 100
+Empty
+Item default:cobble 16
+Empty
+Empty
+Empty
+Empty
+Item default:grass_1 5
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 9
+EndInventoryList
+List armor_head 1
+Width 0
+Empty
+EndInventoryList
+List armor_chest 1
+Width 0
+Empty
+EndInventoryList
+List armor_legs 1
+Width 0
+Empty
+EndInventoryList
+List armor_feet 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

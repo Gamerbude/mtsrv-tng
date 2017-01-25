@@ -1,0 +1,84 @@
+breath = 11
+hp = 20
+name = 0-4-12
+pitch = 5.7
+position = (725.45,315,2307.52)
+version = 1
+yaw = 188.81
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:glass 3
+Item default:stick 2
+Item default:acacia_sapling
+Item bucket:bucket_water
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 15
+EndInventoryList
+List armor_head 1
+Width 0
+Empty
+EndInventoryList
+List armor_chest 1
+Width 0
+Empty
+EndInventoryList
+List armor_legs 1
+Width 0
+Empty
+EndInventoryList
+List armor_feet 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

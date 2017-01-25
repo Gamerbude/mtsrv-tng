@@ -1,0 +1,84 @@
+breath = 11
+hp = 8
+name = StockdummerCheater
+pitch = 7.11
+position = (4903.6,255,6565.1)
+version = 1
+yaw = 298.77
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:pick_wood 1 28392
+Item default:craft_guide
+Item default:maple_leaves 5
+Item default:cobble 5
+Item default:dirt 7
+Item default:bone 6
+Item creatures:feather
+Empty
+Item default:ice
+Item default:sandstone 14
+Item default:cherry_blossoms 12
+Item default:birch_sapling
+Item creatures:egg 2
+Item default:cherry_tree 9
+Item default:red_maple_leaves 2
+Empty
+Item default:stick 2
+Item default:sapling
+Empty
+Item default:maple_wood 33
+Item default:wool_brown
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 4
+EndInventoryList
+List armor_head 1
+Width 0
+Empty
+EndInventoryList
+List armor_chest 1
+Width 0
+Empty
+EndInventoryList
+List armor_legs 1
+Width 0
+Empty
+EndInventoryList
+List armor_feet 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

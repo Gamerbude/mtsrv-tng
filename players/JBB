@@ -1,0 +1,84 @@
+breath = 11
+hp = 13
+name = JBB
+pitch = 21.5
+position = (1216.58,705,-1645.29)
+version = 1
+yaw = 74.59
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:snow 3
+Item default:dirt
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 16
+EndInventoryList
+List armor_head 1
+Width 0
+Empty
+EndInventoryList
+List armor_chest 1
+Width 0
+Empty
+EndInventoryList
+List armor_legs 1
+Width 0
+Empty
+EndInventoryList
+List armor_feet 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

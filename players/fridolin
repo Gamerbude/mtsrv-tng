@@ -1,0 +1,84 @@
+breath = 11
+hp = 20
+name = fridolin
+pitch = 33.39
+position = (4910.31,256,6551.44)
+version = 1
+yaw = 11.4
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:sword_steel 1 15128
+Item default:pick_stone 1 7644
+Item farming:potato 19
+Item default:axe_stone 1 51919
+Item default:carpet_orange 7
+Empty
+Item default:shears 1 19285
+Item default:wool_grey 3
+Item default:birch_wood
+Item creatures:rotten_flesh 6
+Item default:grass_1 17
+Item default:wool_white 9
+Item default:steel_ingot 17
+Item flowers:dandelion_yellow
+Item creatures:chicken_flesh
+Item flowers:viola 2
+Empty
+Empty
+Item farming:wheat 2
+Item farming:seed_wheat 3
+Item flowers:tulip 20
+Item default:stone_with_gold 3
+Item default:shovel_stone 1 57876
+Empty
+Empty
+Empty
+Empty
+Item dye:orange 3
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 23
+EndInventoryList
+List armor_head 1
+Width 0
+Item armor:wood_head 1 54600
+EndInventoryList
+List armor_chest 1
+Width 0
+Item armor:wood_chest 1 54600
+EndInventoryList
+List armor_legs 1
+Width 0
+Item armor:wood_legs 1 54600
+EndInventoryList
+List armor_feet 1
+Width 0
+Item armor:wood_feet 1 54600
+EndInventoryList
+EndInventory

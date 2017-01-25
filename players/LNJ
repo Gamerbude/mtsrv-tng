@@ -1,0 +1,84 @@
+breath = 11
+hp = 12
+name = LNJ
+pitch = 0
+position = (4859.43,265,6520.66)
+version = 1
+yaw = 0
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:pick_stone 1 62244
+Item default:sword_stone 1 21148
+Item creatures:chicken_meat 2
+Item default:coal_lump 28
+Item default:pine_tree 9
+Item default:torch 17
+Item default:shovel_stone 1 26208
+Item default:axe_stone 1 27300
+Item default:iron_lump 8
+Item default:maple_wood 23
+Item default:mossycobble 9
+Item default:pine_sapling 5
+Item default:copper_ingot 8
+Item default:sapling 7
+Item default:bone 21
+Item default:wool_black 2
+Item default:stone 8
+Item default:grass_1 6
+Item default:birch_wood 20
+Item default:cobble 100
+Item default:maple_tree 4
+Item default:steel_ingot 9
+Item boats:boat
+Item creatures:meat 2
+Item default:cobble 49
+Item farming:wheat 2
+Item default:gravel 6
+Item default:mese_crystal_fragment 2
+Item default:wool_white 6
+Item creatures:rotten_flesh 4
+Item creatures:feather
+Item default:dirt 4
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List hunger 1
+Width 0
+Item : 15
+EndInventoryList
+List armor_head 1
+Width 0
+Item armor:wood_head 1 37128
+EndInventoryList
+List armor_chest 1
+Width 0
+Item armor:wood_chest 1 37128
+EndInventoryList
+List armor_legs 1
+Width 0
+Item armor:wood_legs 1 37128
+EndInventoryList
+List armor_feet 1
+Width 0
+Item armor:wood_feet 1 37128
+EndInventoryList
+EndInventory
