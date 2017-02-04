@@ -1,7 +1,7 @@
-day_count = 12801
-game_time = 15342333
-last_clear_objects_time = 0
+day_count = 13519
 lbm_introduction_times = :stairs:slab_brickupside_down_replace~7021900;:stairs:slab_cobbleupside_down_replace~7021900;:stairs:slab_desert_stoneupside_down_replace~7021900;:stairs:slab_junglewoodupside_down_replace~7021900;:stairs:slab_stonebrickupside_down_replace~7021900;:stairs:slab_stoneupside_down_replace~7021900;:stairs:slab_woodupside_down_replace~7021900;:stairs:stair_brickupside_down_replace~7021900;:stairs:stair_cobbleupside_down_replace~7021900;:stairs:stair_desert_stoneupside_down_replace~7021900;:stairs:stair_junglewoodupside_down_replace~7021900;:stairs:stair_stonebrickupside_down_replace~7021900;:stairs:stair_stoneupside_down_replace~7021900;:stairs:stair_woodupside_down_replace~7021900;
+game_time = 16203809
+time_of_day = 15822
 lbm_introduction_times_version = 1
-time_of_day = 18279
+last_clear_objects_time = 0
 EnvArgsEnd
